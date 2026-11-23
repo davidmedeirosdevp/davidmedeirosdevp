@@ -1,53 +1,81 @@
-# 👋 Olá, eu sou David Medeiros!
+👋 Olá, eu sou David Medeiros!
 
-### 💻 Desenvolvedor Front-end | Em evolução para Full Stack
+<div align="center">
 
-Sou estudante de **Sistemas de Informação na UNIFACISA**, atualmente no 2º período, e apaixonado por tecnologia e desenvolvimento de software.
+💻 Desenvolvedor Front-end | Em evolução para Full Stack
 
-Estou construindo minha jornada na programação, buscando evoluir constantemente e transformar conhecimento em projetos reais.
+Estudante de Sistemas de Informação na UNIFACISA 🎓
 
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Full Stack através do **Fullstack PRO**.
+Construindo minha jornada na programação, um projeto de cada vez.
 
----
-
-### 🚀 Tecnologias que conheço
-
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-### 📚 Atualmente estudando
+🚀 Sobre mim
 
-- Desenvolvimento Full Stack
-- JavaScript e boas práticas de programação
-- React.js
-- Construção de aplicações web
+🎓 Graduando em Sistemas de Informação — UNIFACISA (2º período).
 
-### 🎓 Formação acadêmica
+💻 Conhecimentos em HTML, CSS e JavaScript.
 
-- **Curso:** Sistemas de Informação
-- **Instituição:** UNIFACISA
-- **Período:** 2º período
+📚 Estudando desenvolvimento Full Stack pelo Fullstack PRO.
 
-### 🎯 Meus objetivos
+🌱 Em constante evolução no desenvolvimento web.
 
-- Evoluir como desenvolvedor Full Stack.
-- Desenvolver projetos cada vez mais completos.
-- Aprimorar minhas habilidades de programação.
-- Construir um portfólio profissional.
-- Conquistar minha primeira oportunidade na área de tecnologia.
+🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e construir aplicações reais.
 
-### 📊 Minha jornada na programação
+🛠️ Tecnologias
 
-Estou em constante aprendizado, compartilhando meus estudos, projetos e evolução através do GitHub.
+<div align="center">
 
-### 📫 Onde me encontrar
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-- **GitHub:** [davidmedeirosdevp](https://github.com/davidmedeirosdevp)
-- **LinkedIn:** Em breve!
+</div>
 
----
+📚 Atualmente estudando
 
-⭐ *Aprendendo, praticando e evoluindo um código de cada vez!*
+JavaScript e boas práticas de programação.
+
+React.js.
+
+Desenvolvimento Full Stack.
+
+Construção de aplicações web.
+
+📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=davidmedeirosdevp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmedeirosdevp&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+🎯 Objetivos
+
+Desenvolver projetos cada vez mais completos.
+
+Aprimorar minhas habilidades de programação.
+
+Construir um portfólio profissional.
+
+Contribuir com projetos e compartilhar conhecimento.
+
+Conquistar minha primeira oportunidade na área de tecnologia.
+
+📫 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/davidmedeirosdevp">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+⭐ Sempre aprendendo, praticando e evoluindo.
+
+Transformando conhecimento em código!
+
+</div>
