@@ -1,81 +1,39 @@
-👋 Olá, eu sou David Medeiros!
+👋 Fala! Eu sou Davi Medeiros
 
-<div align="center">
+💻 Estudante de Sistemas de Informação na UNIFACISA.
 
-💻 Desenvolvedor Front-end | Em evolução para Full Stack
+Atualmente estou mergulhando no mundo do desenvolvimento web, aprendendo, criando projetos e tentando transformar cada ideia em código.
 
-Estudante de Sistemas de Informação na UNIFACISA 🎓
+Gosto de tecnologia, programação e de descobrir como as coisas funcionam por trás das telas.
 
-Construindo minha jornada na programação, um projeto de cada vez.
+🚀 Minha stack
 
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </div>
 
-🚀 Sobre mim
+🧑‍💻 Um pouco sobre mim
 
-🎓 Graduando em Sistemas de Informação — UNIFACISA (2º período).
-
-💻 Conhecimentos em HTML, CSS e JavaScript.
+🎓 Sistemas de Informação — UNIFACISA (2º período).
 
 📚 Estudando desenvolvimento Full Stack pelo Fullstack PRO.
 
-🌱 Em constante evolução no desenvolvimento web.
+💡 Sempre buscando aprender e melhorar minhas habilidades.
 
-🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e construir aplicações reais.
+🔨 Colocando em prática o que aprendo através de projetos.
 
-🛠️ Tecnologias
+📌 O que você vai encontrar por aqui?
 
-<div align="center">
+Projetos, experiências, estudos e um pouco da minha evolução como desenvolvedor.
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+Ainda estou no começo da jornada, mas pretendo construir muita coisa interessante por aqui.
 
-</div>
+🌐 Conecte-se comigo
 
-📚 Atualmente estudando
 
-JavaScript e boas práticas de programação.
-
-React.js.
-
-Desenvolvimento Full Stack.
-
-Construção de aplicações web.
-
-📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=davidmedeirosdevp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmedeirosdevp&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-🎯 Objetivos
-
-Desenvolver projetos cada vez mais completos.
-
-Aprimorar minhas habilidades de programação.
-
-Construir um portfólio profissional.
-
-Contribuir com projetos e compartilhar conhecimento.
-
-Conquistar minha primeira oportunidade na área de tecnologia.
-
-📫 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/davidmedeirosdevp">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-
-⭐ Sempre aprendendo, praticando e evoluindo.
-
-Transformando conhecimento em código!
+Construindo, aprendendo e evoluindo. Um commit de cada vez. 🚀
 
 </div>
