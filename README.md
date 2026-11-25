@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Davi Medeiros!
 
-### 💻 Desenvolvedor Front-end | Em evolução para Full Stack
+### 💻 Desenvolvedor Back-end | Em evolução para Full Stack
 
 Sou estudante de **Sistemas de Informação na UNIFACISA**, atualmente no 2º período, e apaixonado por tecnologia e desenvolvimento de software.
 
